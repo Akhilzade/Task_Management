@@ -1,0 +1,58 @@
+body{
+
+    margin: 0%;
+    padding: 0%;
+
+
+}
+.card{
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+#t_form{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 50px;
+
+}
+label{
+    padding:0px;
+    margin: 0px;
+    text-align: left;
+    padding-right: 470px
+}
+.row{
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.card-footer{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+
+}
+.container{
+
+    margin-top: 20px;
+}
+#t_table{
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 30px;
+
+}
+.btn{
+    padding-block: revert;
+    margin-left: 20px;
+}
